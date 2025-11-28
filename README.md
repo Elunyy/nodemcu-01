@@ -5,7 +5,7 @@
 * Setup körs **en** gång vid start av programmet.
 Här defineras en inbyggd LED som en output.
 
-```
+```C++
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 }
